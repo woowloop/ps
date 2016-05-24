@@ -1,14 +1,4 @@
-<<<<<<< 5084e2e95006b9bd31fac74b3d558046495d4306
-dev33
-=======
-dev33
-88
-dev vm1
-
-
-<<<<<<< b9f31ac8a35dd4d1a69aac81ba094998d9d9acc4
-=======
-devvm3
+dev1
 
 
 
