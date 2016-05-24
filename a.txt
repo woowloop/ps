@@ -1,13 +1,1 @@
 dev33
-88
-dev vm1
-dev vm2
-dev vm3
-dev vm4
-99
-dev vm5
-dev vm6
-dev vm7
-dev vm8
-66
-77
