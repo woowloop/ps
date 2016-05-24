@@ -5,3 +5,4 @@ dev vm2
 dev vm3
 dev vm4
 99
+dev vm5
