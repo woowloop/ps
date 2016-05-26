@@ -1,5 +1,9 @@
+<<<<<<< 040345f0591b49eb454fd41cf34dc265e00342a2
 dev1 dev3
 dev2
 
 {}
+=======
+devaaaaaaaaaaaaa
+>>>>>>> fix a vm
 
